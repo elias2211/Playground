@@ -1,0 +1,18 @@
+.root{
+    -fx-background-image: url("/res/background1.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+ 
+}
+
+.label{
+
+	-fx-font-size: 22px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #333333;
+	-fx-text-fill: yellow;
+}
+
+
+
